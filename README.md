@@ -1,1 +1,2 @@
 # Marble-Maze
+Players navigate a virtual marble through mazes by tilting the Raspberry Pi, leveraging the SenseHAT's accelerometer data. The objective is to reach the green endpoint while avoiding red obstacles. Each level has a time limit, and completion leads to the next level. The game is visually displayed on the Sense HAT's LED matrix, providing an interactive and educational Python programming experience on the Raspberry Pi platform
